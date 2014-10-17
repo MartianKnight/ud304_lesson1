@@ -1,3 +1,24 @@
 .description {
   color:red;
+  max-width: 705px;
+}
+
+* {
+  outline: 1px solid red !important;
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+
+.image {
+  max-width: 460px;
+}
+
+.app {
+  display: flex;
+  display: -webkit-flex;
 }
